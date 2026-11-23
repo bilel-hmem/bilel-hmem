@@ -1,8 +1,8 @@
 # Hi, I'm Bilel 👋
 
-**Backend Developer — NestJS · TypeScript · MySQL**, Computer Engineering graduate (2025), based in Tunisia.
+**Backend Developer — NestJS · TypeScript · MySQL**, software engineering student (cycle ingénieur) at ITEAM University, based in Tunisia.
 
-I build secure, tested REST APIs and ship them myself: migrations, row locking, role-based access, e2e tests on real databases, Docker and CI/CD. Open to backend roles in **Tunisia, KSA and UAE** (on-site, hybrid or remote).
+I build secure, tested REST APIs and ship them myself: migrations, row locking, role-based access, e2e tests on real databases, Docker and CI/CD. Looking for a **junior backend role or a PFE** in **Tunisia**, open to **KSA and UAE**.
 
 ### 🛠 Tech stack
 
