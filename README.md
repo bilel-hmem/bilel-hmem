@@ -2,7 +2,7 @@
 
 **Backend Developer — NestJS · TypeScript · MySQL**, software engineering student (cycle ingénieur) at ITEAM University, based in Tunisia.
 
-I build secure, tested REST APIs and ship them myself: migrations, row locking, role-based access, e2e tests on real databases, Docker and CI/CD. Looking for a **junior backend role or a PFE** in **Tunisia**, open to **KSA and UAE**.
+I build secure, tested REST APIs and ship them myself: migrations, row locking, role-based access, e2e tests on real databases, Docker and CI/CD. Available now for **full-time, freelance or remote** backend work (Tunisia, UTC+1).
 
 ### 🛠 Tech stack
 
